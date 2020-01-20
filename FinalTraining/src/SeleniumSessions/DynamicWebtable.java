@@ -9,6 +9,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DynamicWebtable {
 	
+	/* Testing
+	 */
+	
 	public static void main(String[]args) {
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Mohammod I Hossain\\Desktop\\\\New folder\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
