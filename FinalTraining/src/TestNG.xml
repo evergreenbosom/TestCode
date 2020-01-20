@@ -1,0 +1,13 @@
+
+<suite name="TestNG">
+<test name = "TestNG Testing">
+  <classes>
+  <class name = "SeleniumSessions.TestNGAnotation"/>
+  <class name = "SeleniumSessions.GoogleTest"/>
+  
+      
+      
+       
+    </classes>
+  </test> 
+</suite> 
